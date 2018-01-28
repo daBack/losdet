@@ -2,4 +2,4 @@
 
 Here you can find the source code for the website, otherwise you can check it out live here:
 
-[losdet.nu](losdet.nu)
+[http://losdet.nu](losdet.nu)
