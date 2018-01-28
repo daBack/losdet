@@ -1,16 +1,5 @@
-# An easy setup an Express server based on node. All necessary pieces are included.
+# This node powered website is the solution to all programming problems and challenges.
 
-## Installation
+Here you can find the source code for the website, otherwise you can check it out live here:
 
-Start by cloning the git:
-```
-git clone https://github.com/daBack/express-Startup.git
-```
-After, make sure you do an npm install to get all node_modules:
-```
-npm install
-```
-
-Now you are good to go!
-Happy coding :)
-_daBack_
+[losdet.nu](losdet.nu)
